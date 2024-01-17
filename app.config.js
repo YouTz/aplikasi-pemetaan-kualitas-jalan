@@ -1,4 +1,4 @@
-export const appName = 'Aplikasi Pemetaan Kondisi Jalan'; // will be displayed in browser's tab
+export const appName = 'Aplikasi Pemetaan Kualitas Jalan'; // will be displayed in browser's tab
 export const leafletOptions = {
     zoomControl: false, // zoom control button
     initialZoom: 25,
